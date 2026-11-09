@@ -1,0 +1,9 @@
+{
+  "name": "@streak/api",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@streak/contracts": "0.1.0",
+    "fastify": "^5.2.1"
+  }
+}
