@@ -9,9 +9,9 @@ export type DemoMember = {
 
 // member-4 is intentionally skipped: tests create "member-4" (Priya) through the admin API.
 export const demoMembers: DemoMember[] = [
-  { memberId: "1", memberDisplayName: "Sandeep Khairwal", activeStreak: 38, personalBest: 45 },
-  { memberId: "2", memberDisplayName: "Ananya Iyer", activeStreak: 29, personalBest: 33 },
-  { memberId: "3", memberDisplayName: "Vikram Chauhan", activeStreak: 24, personalBest: 30 },
+  { memberId: "1", memberDisplayName: "SANDEEP KHAIRWAL", activeStreak: 38, personalBest: 45 },
+  { memberId: "2", memberDisplayName: "Dev Singh", activeStreak: 29, personalBest: 33 },
+  { memberId: "3", memberDisplayName: "Ankit Yadav", activeStreak: 24, personalBest: 30 },
   { memberId: "4", memberDisplayName: "Rohan Malhotra", activeStreak: 21, personalBest: 21 },
   { memberId: "5", memberDisplayName: "Neha Kapoor", activeStreak: 18, personalBest: 26 },
   { memberId: "6", memberDisplayName: "Arjun Bhardwaj", activeStreak: 15, personalBest: 19 },
